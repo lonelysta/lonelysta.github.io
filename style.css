@@ -80,6 +80,7 @@ span {
     overflow: hidden;
     padding-left: 5px;
     vertical-align: middle;
+    display: block;
 }
 
 .search_part {
@@ -240,6 +241,7 @@ span {
     overflow: hidden;
     text-overflow: clip;
     -o-text-overflow: clip;
+    ms-text-overflow: clip;
     color: #1b1b1b;
     font-size: 10px;
 }
